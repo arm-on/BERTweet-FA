@@ -26,4 +26,4 @@ Evaluation
 
 Contributors
 ---
-- [Arman Malekzadeh](http://ce.sharif.edu/~malekzaadeh/), PhD Student in AI @ Sharif University of Technology [[Linkedin](https://www.linkedin.com/in/arman-malekzadeh/)] [[Github](https://github.com/arm-on)]
+- Arman Malekzadeh [[Linkedin](https://www.linkedin.com/in/arman-malekzadeh/)] [[Github](https://github.com/arm-on)]
